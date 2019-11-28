@@ -1,8 +1,5 @@
 # :musical_note: Echo
 
-
-[![Build Status](https://travis-ci.org/dkakashi69/Echo.svg?branch=master)](https://travis-ci.org/dkakashi69/Echo)
-
 A music app made with React + Redux + Nodejs
 
 ![image](https://user-images.githubusercontent.com/20469909/41728104-2b752300-75a0-11e8-9caf-3869eaf41c20.png)
